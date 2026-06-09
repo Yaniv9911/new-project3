@@ -3,7 +3,7 @@ from dash import html, dcc
 import plotly.express as px
 import pandas as pd
 
-print("thanks neta for your code")
+print("thanks omer for your code")
 
 # Sample data
 df = pd.DataFrame({
